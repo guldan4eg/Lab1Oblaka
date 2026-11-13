@@ -1,0 +1,1 @@
+Реализация в AdaptiveRequestPolicy.cs
